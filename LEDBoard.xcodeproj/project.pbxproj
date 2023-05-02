@@ -13,6 +13,7 @@
 		93DE44162A0141E300AE206C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 93DE44142A0141E300AE206C /* Main.storyboard */; };
 		93DE44182A0141E400AE206C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 93DE44172A0141E400AE206C /* Assets.xcassets */; };
 		93DE441B2A0141E400AE206C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 93DE44192A0141E400AE206C /* LaunchScreen.storyboard */; };
+		93DE44232A014DD500AE206C /* SettingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93DE44222A014DD500AE206C /* SettingViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		93DE44172A0141E400AE206C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		93DE441A2A0141E400AE206C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		93DE441C2A0141E400AE206C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		93DE44222A014DD500AE206C /* SettingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				93DE44172A0141E400AE206C /* Assets.xcassets */,
 				93DE44192A0141E400AE206C /* LaunchScreen.storyboard */,
 				93DE441C2A0141E400AE206C /* Info.plist */,
+				93DE44222A014DD500AE206C /* SettingViewController.swift */,
 			);
 			path = LEDBoard;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				93DE44132A0141E300AE206C /* ViewController.swift in Sources */,
 				93DE440F2A0141E300AE206C /* AppDelegate.swift in Sources */,
 				93DE44112A0141E300AE206C /* SceneDelegate.swift in Sources */,
+				93DE44232A014DD500AE206C /* SettingViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
