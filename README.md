@@ -53,5 +53,5 @@
 
 <div align=center>
 <h3>📱 App View 📱</h3>
-  <img src="https://github.com/Jeong-HanGyeol/QuotesGenerator/blob/main/%E1%84%80%E1%85%B3%E1%84%85%E1%85%AE%E1%86%B8%201.png" />
+  <img src="https://github.com/Jeong-HanGyeol/LEDBoard/blob/main/%E1%84%80%E1%85%B3%E1%84%85%E1%85%AE%E1%86%B8%201.png" />
 </div>
