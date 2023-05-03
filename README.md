@@ -53,5 +53,5 @@
 
 <div align=center>
 <h3>📱 App View 📱</h3>
-  <img src="https://github.com/Jeong-HanGyeol/LEDBoard/blob/main/LED.gif" />
+  <img src="https://github.com/Jeong-HanGyeol/LEDBoard/blob/main/led.gif" />
 </div>
